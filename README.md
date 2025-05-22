@@ -13,7 +13,7 @@
 ## 🔗 Links
 - 📧 [Email](mailto:mohamed.tarek.aiad@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/maiad1)
-- 💼 [Resume](#) (upload if you'd like)
+- 💼 [Resume](/CV/Mohamed_Aiad.pdf)
 - 🧠 [LeetCode](https://leetcode.com/u/mohamedaiad)
 
 > “Always learning, always building.”
