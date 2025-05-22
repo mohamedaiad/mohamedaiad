@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Aiad
 
-<!--
-**mohamedaiad/mohamedaiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer & Systems Engineering graduate from Alexandria University  
+💻 Passionate about backend development, system design, and scalable architectures  
+🏆 3rd Place - Dell Hacktrick Hackathon 2024  
+📚 Currently exploring: Microservices, Distributed Systems
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+- **Rosheta** – Blockchain-based healthcare manager using Hyperledger Fabric  
+- **School Website** – Full-featured education system with Spring Boot & AngularJS  
+- **Producer/Consumer Simulation** – Real-time multithreading simulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- 📧 [Email](mailto:mohamed.tarek.aiad@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/maiad1)
+- 💼 [Resume](#) (upload if you'd like)
+- 🧠 [LeetCode](https://leetcode.com/u/mohamedaiad)
+
+> “Always learning, always building.”
+
